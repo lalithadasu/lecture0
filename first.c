@@ -1,4 +1,5 @@
 #include<stdio.h>
 void main(){
-printf("First prog");
+printf("\nFirst prog");
+printf("\nHi");
 }
