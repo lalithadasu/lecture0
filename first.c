@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main(){
-printf("\nFirst prog");
+printf("\nFirst prog xyz");
 printf("\nHi");
 }
